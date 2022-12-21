@@ -1,0 +1,4 @@
+#Fri Jun 10 15:07:51 CST 2022
+base.0=E\:\\NeoMusicApp\\neo_music\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
